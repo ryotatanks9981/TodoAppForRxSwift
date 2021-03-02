@@ -1,0 +1,6 @@
+framework module Pods_SimpleTodoApp {
+  umbrella header "Pods-SimpleTodoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
